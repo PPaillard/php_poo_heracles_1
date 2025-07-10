@@ -1,5 +1,7 @@
 # Les travaux d'Héraclès : le lion de Némée
 
+![instructions](img/lion-hercule.png)
+
 Démarrage : cloner ce *repository*.
 
 ## Préparation
