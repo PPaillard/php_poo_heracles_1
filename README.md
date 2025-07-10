@@ -82,4 +82,4 @@ Un code "propre" te sera fourni au début du prochain atelier.
 
 
 **Épisode suivant**  
-[Le sanglier d’Érymanthe](https:///workshop-php-poo-heracles-labour-2/)
+[Le sanglier d’Érymanthe](https://github.com/PPaillard/php_poo_heracles_2)
